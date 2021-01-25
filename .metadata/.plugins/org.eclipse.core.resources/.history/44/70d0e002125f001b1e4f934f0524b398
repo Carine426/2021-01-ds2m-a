@@ -1,0 +1,18 @@
+package br.senai.sp.jandira.model;
+
+public class Cliente {
+
+	private String nome;
+	private String cpf;
+    private String telefone;
+	private String cep;
+	
+	
+	public void setNome (String Nome) {
+		this.nome = nome; 
+	}
+	
+}
+    public void setCpf (String Cpf) {
+    	this.cfp = cpf;
+    }
